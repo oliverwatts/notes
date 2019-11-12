@@ -2,9 +2,9 @@
 
 [Here](http://homepages.inf.ed.ac.uk/cgi/owatts/tts_demo_control_01.cgi) is an interactive demo which allows you to control the speaking style of a synthetic voice.
 
-![](@attachment/Clipboard_2019-11-12-20-39-44.png)
+![](@img/screenshot.png)
 
-The voice has been trained on c.20 hours of expressive audiobook data. The training method is based on the idea which we presented in [this paper](www.paper.com), but has been integrated into the new [Ophelia TTS toolkit](www.github/ophelia), developed as part of the SCRIPT project.
+The voice has been trained on c.20 hours of expressive audiobook data. The training method is based on the idea which we presented in [this paper](https://www.isca-speech.org/archive/interspeech_2015/i15_2217.html), but has been integrated into the new [Ophelia TTS toolkit](https://github.com/CSTR-Edinburgh/ophelia), developed as part of the SCRIPT project.
 
 A 2-dimensional control space was learned during training. The axes of the discovered space have no predefined meaning, but represent directions of sentence-level variation in the training data.
 
