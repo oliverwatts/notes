@@ -1,3 +1,6 @@
+![](https://github.com/oliverwatts/notes/blob/master/demo/img/QR.png)
+`https://tinyurl.com/yf38y7g3`
+
 # SCRIPT project: controllable TTS demo
 
 [Here](http://homepages.inf.ed.ac.uk/cgi/owatts/tts_demo_control_01.cgi) is an interactive demo which allows you to control the speaking style of a synthetic voice.
