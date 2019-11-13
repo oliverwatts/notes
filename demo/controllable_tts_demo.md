@@ -45,3 +45,10 @@ urllib.request.urlretrieve(wave_url, tempwave)
 
 os.system('play %s'%(tempwave))
 ```
+
+
+## Credits
+Voice training: Francesca della Moretta
+Data preparation: Tom Iddon
+Software: Oliver Watts
+Funding: this work was supported by EPSRC Standard Research Grant EP/P011586/1, SCRIPT.
